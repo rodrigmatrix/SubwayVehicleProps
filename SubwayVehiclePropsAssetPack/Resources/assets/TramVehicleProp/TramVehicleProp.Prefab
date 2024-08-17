@@ -1,0 +1,98 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.StaticObjectPrefab, Game",
+    "name": "TramVehicleProp",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": $fstrref:"UnityGUID:b5fa8b1864a369c40be0434310525a12",
+                "m_Priority": 110,
+                "m_Icon": "coui://customassets/TramVehicleProp/icon.png",
+                "m_LargeIcon": "",
+                "m_IsDebugObject": false
+            }
+        ]
+    },
+    "m_Meshes": {
+        "$id": 3,
+        "$type": "3|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$rlength": 3,
+        "$rcontent": [
+            {
+                "$id": 4,
+                "$type": "4|Game.Prefabs.ObjectMeshInfo, Game",
+                "m_Mesh": $fstrref:"UnityGUID:a5e2fe5b55d91604091590caf24cf8d3",
+                "m_Position": {
+                    "$type": "5|Unity.Mathematics.float3, Unity.Mathematics",
+                    "x": 0,
+                    "y": 0,
+                    "z": -8.546875
+                },
+                "m_Rotation": {
+                    "$type": "6|Unity.Mathematics.quaternion, Unity.Mathematics",
+                    "value": {
+                        "$type": "7|Unity.Mathematics.float4, Unity.Mathematics",
+                        "x": 0,
+                        "y": 1,
+                        "z": 0,
+                        "w": -4.371139E-08
+                    }
+                },
+                "m_RequireState": 0
+            },
+            {
+                "$id": 5,
+                "$type": 4,
+                "m_Mesh": $fstrref:"UnityGUID:269cd98a672df45459111d35267b8eea",
+                "m_Position": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "m_Rotation": {
+                    "$type": 6,
+                    "value": {
+                        "$type": 7,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    }
+                },
+                "m_RequireState": 0
+            },
+            {
+                "$id": 6,
+                "$type": 4,
+                "m_Mesh": $fstrref:"UnityGUID:a5e2fe5b55d91604091590caf24cf8d3",
+                "m_Position": {
+                    "$type": 5,
+                    "x": 0,
+                    "y": 0,
+                    "z": 8.515625
+                },
+                "m_Rotation": {
+                    "$type": 6,
+                    "value": {
+                        "$type": 7,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    }
+                },
+                "m_RequireState": 0
+            }
+        ]
+    },
+    "m_Circular": false
+}

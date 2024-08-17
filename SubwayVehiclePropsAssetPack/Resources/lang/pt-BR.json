@@ -3,5 +3,20 @@
   "Assets.DESCRIPTION[SubwayVehicle6Cars2EnginesProp]": "Trem de metrô para ser inserido em um pátio como um prop e mudar a cor com o recolor.",
 
   "Assets.NAME[SubwayVehicle4Cars4EnginesProp]": "Trem de Metrô com 4 carros e 4 cabines Prop",
-  "Assets.DESCRIPTION[SubwayVehicle4Cars4EnginesProp]": "Trem de metrô para ser inserido em um pátio como um prop e mudar a cor com o recolor."
+  "Assets.DESCRIPTION[SubwayVehicle4Cars4EnginesProp]": "Trem de metrô para ser inserido em um pátio como um prop e mudar a cor com o recolor.",
+
+  "Assets.NAME[EuCargoEmptyTrainVehicleProp]": "Trem de Carga Europeu Prop",
+  "Assets.DESCRIPTION[EuCargoEmptyTrainVehicleProp]": "Trem de Carga Europeu para ser inserido em um pátio como um prop e mudar a cor com o recolor.",
+
+  "Assets.NAME[NACargoEmptyTrainVehicleProp]": "Trem de Carga Norte-Americano Prop",
+  "Assets.DESCRIPTION[NACargoEmptyTrainVehicleProp]": "Trem de Carga Norte-Americano para ser inserido em um pátio como um prop e mudar a cor com o recolor.",
+
+  "Assets.NAME[EUPassengerTrainVehicleProp]": "Trem de Passageiros Europeu Prop",
+  "Assets.DESCRIPTION[EUPassengerTrainVehicleProp]": "Trem de Passageiros Europeu para ser inserido em um pátio como um prop e mudar a cor com o recolor.",
+
+  "Assets.NAME[NAPassengerTrainVehicleProp]": "Trem de Passageiros Norte-Americano Prop",
+  "Assets.DESCRIPTION[NAPassengerTrainVehicleProp]": "Trem de Passageiros Norte-Americano para ser inserido em um pátio como um prop e mudar a cor com o recolor.",
+
+  "Assets.NAME[TramVehicleProp]": "Bonde Prop",
+  "Assets.DESCRIPTION[TramVehicleProp]": "Bonde para ser inserido em um pátio como um prop e mudar a cor com o recolor."
 }

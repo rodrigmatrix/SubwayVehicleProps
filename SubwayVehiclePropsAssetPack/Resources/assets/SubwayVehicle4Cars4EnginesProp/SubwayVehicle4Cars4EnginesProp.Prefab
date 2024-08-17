@@ -14,7 +14,7 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:32b5e550d4a9af34facf35e8b1b14206",
-                "m_Priority": 100,
+                "m_Priority": 110,
                 "m_Icon": "coui://customassets/SubwayVehicle4Cars4EnginesProp/icon.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false

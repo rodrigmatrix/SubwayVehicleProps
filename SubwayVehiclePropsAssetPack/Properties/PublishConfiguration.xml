@@ -2,20 +2,20 @@
 	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
 	<ModId Value="87056" />
 	<!--Name of the mod to display to players-->
-	<DisplayName Value="Subway Vehicle Props" />
+	<DisplayName Value="Transport Vehicle Props" />
 	<!--Short description of the mod-->
-	<ShortDescription Value="Add Subway Vehicle Props to your subway depots." />
+	<ShortDescription Value="Add Transport Vehicle Props to your transport depots." />
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
 	<!--LongDescription Value="This is a long description" /-->
 	<LongDescription>
-## Subway Vehicle Props
-Tired of empty depots? Add Subway Vehicle Props to your subway depots. Your can customize their color with recolor by clicking on vehicle prop. You can place the entire vehicle with one click.
+## Transport Vehicle Props
+Tired of empty depots? Add Vehicle Props to your depots. Your can customize their color with recolor by clicking on vehicle prop. You can place the entire vehicle with one click.
 
 ## How to use it:
 
-- 1: Go to the subway tab in game.
+- 1: Go to the subway, train or tram tab in game.
 - 2: Choose a prop an toggle anarchy.
-- 3: Choose the vehicle and place the prop on a depot track. You need to toggle anarchy.
+- 3: Place the prop on a depot track.
 - 4: Click on the prop and change the color on the recolor pannel.
   </LongDescription>
 	<!--Thumbnail-->
@@ -26,12 +26,15 @@ Tired of empty depots? Add Subway Vehicle Props to your subway depots. Your can 
   <Screenshot Value="ParadoxRes/Screenshot3.png" />
   <Screenshot Value="ParadoxRes/Screenshot4.png" />
   <Screenshot Value="ParadoxRes/Screenshot5.png" />
+  <Screenshot Value="ParadoxRes/Screenshot6.png" />
+  <Screenshot Value="ParadoxRes/Screenshot7.png" />
+  <Screenshot Value="ParadoxRes/Screenshot8.png" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="Code Mod" />
 	<!--Link to the forum post where the mod can be discussed-->
-	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/subway-vehicle-props.1698508/" />
+	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/transport-vehicle-props.1698508/" />
 	<!--Version of the mod-->
-	<ModVersion Value="1.0" />
+	<ModVersion Value="1.1" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
@@ -40,8 +43,9 @@ Tired of empty depots? Add Subway Vehicle Props to your subway depots. Your can 
   <Dependency Id="84638" />
   <!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
-# v1.0
-Initial release
+# v1.1
+- Added Cargo and passenger trains with EU and NA vehicles.
+- Added Tram vehicle.
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->

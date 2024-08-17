@@ -3,5 +3,20 @@
   "Assets.DESCRIPTION[SubwayVehicle6Cars2EnginesProp]": "Subway Vehicle to be placed on a subway depot as a prop and change the color with recolor.",
 
   "Assets.NAME[SubwayVehicle4Cars4EnginesProp]": "Subway Vehicle with 4 Cars and 4 Engines Prop",
-  "Assets.DESCRIPTION[SubwayVehicle4Cars4EnginesProp]": "Subway Vehicle to be placed on a subway depot as a prop and change the color with recolor."
+  "Assets.DESCRIPTION[SubwayVehicle4Cars4EnginesProp]": "Subway Vehicle to be placed on a subway depot as a prop and change the color with recolor.",
+
+  "Assets.NAME[EuCargoEmptyTrainVehicleProp]": "EU Cargo Train Vehicle Prop",
+  "Assets.DESCRIPTION[EuCargoEmptyTrainVehicleProp]": "EU Cargo Train Vehicle to be placed on a train depot as a prop and change the color with recolor.",
+
+  "Assets.NAME[NACargoEmptyTrainVehicleProp]": "NA Cargo Train Vehicle Prop",
+  "Assets.DESCRIPTION[NACargoEmptyTrainVehicleProp]": "NA Cargo Train Vehicle to be placed on a train depot as a prop and change the color with recolor.",
+
+  "Assets.NAME[EUPassengerTrainVehicleProp]": "EU Passenger Train Vehicle Prop",
+  "Assets.DESCRIPTION[EUPassengerTrainVehicleProp]": "EU Passenger Train Vehicle to be placed on a train depot as a prop and change the color with recolor.",
+
+  "Assets.NAME[NAPassengerTrainVehicleProp]": "NA Passenger Train Vehicle Prop",
+  "Assets.DESCRIPTION[NAPassengerTrainVehicleProp]": "NA Passenger Train Vehicle to be placed on a train depot as a prop and change the color with recolor.",
+
+  "Assets.NAME[TramVehicleProp]": "Tram Vehicle Prop",
+  "Assets.DESCRIPTION[TramVehicleProp]": "Tram Vehicle to be placed on a tram depot as a prop and change the color with recolor."
 }

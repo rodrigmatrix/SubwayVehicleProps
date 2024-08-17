@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.StaticObjectPrefab, Game",
-    "name": "SubwayVehicle6Cars2EnginesProp",
+    "name": "EUPassengerTrainVehicleProp",
     "active": true,
     "components": {
         "$id": 1,
@@ -13,9 +13,9 @@
                 "$type": "2|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"UnityGUID:32b5e550d4a9af34facf35e8b1b14206",
-                "m_Priority": 111,
-                "m_Icon": "coui://customassets/SubwayVehicle6Cars2EnginesProp/icon.png",
+                "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
+                "m_Priority": 112,
+                "m_Icon": "coui://customassets/EUPassengerTrainVehicleProp/icon.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             }
@@ -29,12 +29,12 @@
             {
                 "$id": 4,
                 "$type": "4|Game.Prefabs.ObjectMeshInfo, Game",
-                "m_Mesh": $fstrref:"UnityGUID:227e6025799708d4e94d26143e57ed46",
+                "m_Mesh": $fstrref:"UnityGUID:48f01a27112428849a93554cf9c393d3",
                 "m_Position": {
                     "$type": "5|Unity.Mathematics.float3, Unity.Mathematics",
                     "x": 0,
                     "y": 0,
-                    "z": -64.96875
+                    "z": -69.296875
                 },
                 "m_Rotation": {
                     "$type": "6|Unity.Mathematics.quaternion, Unity.Mathematics",
@@ -51,12 +51,12 @@
             {
                 "$id": 5,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:33807851b991ad347b543fbb168ea13a",
+                "m_Mesh": $fstrref:"UnityGUID:4e44bd873a55fcc4d84fa48fcca03040",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": -46.453125
+                    "z": -49.859375
                 },
                 "m_Rotation": {
                     "$type": 6,
@@ -73,12 +73,12 @@
             {
                 "$id": 6,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:33807851b991ad347b543fbb168ea13a",
+                "m_Mesh": $fstrref:"UnityGUID:4e44bd873a55fcc4d84fa48fcca03040",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": -27.9375
+                    "z": -30.046875
                 },
                 "m_Rotation": {
                     "$type": 6,
@@ -95,12 +95,12 @@
             {
                 "$id": 7,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:33807851b991ad347b543fbb168ea13a",
+                "m_Mesh": $fstrref:"UnityGUID:4e44bd873a55fcc4d84fa48fcca03040",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": -9.421875
+                    "z": -10.078125
                 },
                 "m_Rotation": {
                     "$type": 6,
@@ -117,12 +117,12 @@
             {
                 "$id": 8,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:33807851b991ad347b543fbb168ea13a",
+                "m_Mesh": $fstrref:"UnityGUID:4e44bd873a55fcc4d84fa48fcca03040",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": 9.046875
+                    "z": 9.90625
                 },
                 "m_Rotation": {
                     "$type": 6,
@@ -139,12 +139,12 @@
             {
                 "$id": 9,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:33807851b991ad347b543fbb168ea13a",
+                "m_Mesh": $fstrref:"UnityGUID:4e44bd873a55fcc4d84fa48fcca03040",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": 27.578125
+                    "z": 29.875
                 },
                 "m_Rotation": {
                     "$type": 6,
@@ -161,12 +161,12 @@
             {
                 "$id": 10,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:33807851b991ad347b543fbb168ea13a",
+                "m_Mesh": $fstrref:"UnityGUID:4e44bd873a55fcc4d84fa48fcca03040",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": 45.984375
+                    "z": 49.84375
                 },
                 "m_Rotation": {
                     "$type": 6,
@@ -183,12 +183,12 @@
             {
                 "$id": 11,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:227e6025799708d4e94d26143e57ed46",
+                "m_Mesh": $fstrref:"UnityGUID:48f01a27112428849a93554cf9c393d3",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": 64.53125
+                    "z": 69.125
                 },
                 "m_Rotation": {
                     "$type": 6,
