@@ -34,18 +34,17 @@ Tired of empty depots? Add Vehicle Props to your depots. Your can customize thei
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/transport-vehicle-props.1698508/" />
 	<!--Version of the mod-->
-	<ModVersion Value="1.1" />
+	<ModVersion Value="1.1.1" />
 	<!--Recommended version of the base game to use the mod-->
-	<GameVersion Value="1.1.*" />
+    <GameVersion Value="1.*" />
   <Dependency Id="78903" />
   <Dependency Id="75426" />
   <Dependency Id="74604" />
   <Dependency Id="84638" />
   <!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
   <ChangeLog>
-# v1.1
-- Added Cargo and passenger trains with EU and NA vehicles.
-- Added Tram vehicle.
+# v1.1.1
+- Updated to new game version
   </ChangeLog>
 	<!--ChangeLog>
 	</ChangeLog-->
