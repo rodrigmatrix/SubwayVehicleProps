@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.StaticObjectPrefab, Game",
-    "name": "EuCargoEmptyTrainVehicleProp",
+    "name": "NACargoEmptyTrainVehicleProp",
     "active": true,
     "components": {
         "$id": 1,
@@ -14,9 +14,8 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
-                "m_Priority": 110,
-                "m_Icon": "coui://customassets/EuCargoEmptyTrainVehicleProp/icon.png",
-                "m_LargeIcon": "",
+                "m_Priority": 111,
+                "m_Icon": "assetdb://global/b2c3d4e5f6a7890123456789012345bc",
                 "m_IsDebugObject": false
             }
         ]
@@ -29,12 +28,12 @@
             {
                 "$id": 4,
                 "$type": "4|Game.Prefabs.ObjectMeshInfo, Game",
-                "m_Mesh": $fstrref:"UnityGUID:c4d499379e7382f4db89cf8daf3f7876",
+                "m_Mesh": $fstrref:"UnityGUID:152b500a2a2d1d644981ac67e4e0866d",
                 "m_Position": {
                     "$type": "5|Unity.Mathematics.float3, Unity.Mathematics",
                     "x": 0,
                     "y": 0,
-                    "z": -102.0625
+                    "z": -98.609375
                 },
                 "m_Rotation": {
                     "$type": "6|Unity.Mathematics.quaternion, Unity.Mathematics",
@@ -51,21 +50,21 @@
             {
                 "$id": 5,
                 "$type": 4,
-                "m_Mesh": $fstrref:"UnityGUID:c4d499379e7382f4db89cf8daf3f7876",
+                "m_Mesh": $fstrref:"UnityGUID:152b500a2a2d1d644981ac67e4e0866d",
                 "m_Position": {
                     "$type": 5,
                     "x": 0,
                     "y": 0,
-                    "z": -82.890625
+                    "z": -81.859375
                 },
                 "m_Rotation": {
                     "$type": 6,
                     "value": {
                         "$type": 7,
                         "x": 0,
-                        "y": 0,
+                        "y": 1,
                         "z": 0,
-                        "w": 1
+                        "w": -4.371139E-08
                     }
                 },
                 "m_RequireState": 0

@@ -15,8 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:1239dee54354f354dbc47d2e5d5ead47",
                 "m_Priority": 113,
-                "m_Icon": "coui://customassets/NAPassengerTrainVehicleProp/icon.png",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://global/c3d4e5f6a7b8901234567890123456cd",
                 "m_IsDebugObject": false
             }
         ]

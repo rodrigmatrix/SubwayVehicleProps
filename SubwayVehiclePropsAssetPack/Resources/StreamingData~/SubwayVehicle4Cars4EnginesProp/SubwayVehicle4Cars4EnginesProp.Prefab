@@ -15,8 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:32b5e550d4a9af34facf35e8b1b14206",
                 "m_Priority": 110,
-                "m_Icon": "coui://customassets/SubwayVehicle4Cars4EnginesProp/icon.png",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://global/d4e5f6a7b8c9012345678901234567de",
                 "m_IsDebugObject": false
             }
         ]

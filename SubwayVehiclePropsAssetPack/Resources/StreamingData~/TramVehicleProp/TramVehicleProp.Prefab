@@ -15,8 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:b5fa8b1864a369c40be0434310525a12",
                 "m_Priority": 110,
-                "m_Icon": "coui://customassets/TramVehicleProp/icon.png",
-                "m_LargeIcon": "",
+                "m_Icon": "assetdb://global/f6a7b8c9d0e1234567890123456789f0",
                 "m_IsDebugObject": false
             }
         ]
